@@ -1,0 +1,9 @@
+{
+  "Id": "HitError",
+  "DisplayName": "Hit Error Meter",
+  "Author": "xiaodi",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.14.0",
+  "AssemblyName": "HitError.dll",
+  "EntryMethod": "HitError.Startup.Load"
+}

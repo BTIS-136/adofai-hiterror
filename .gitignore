@@ -1,0 +1,8 @@
+dist/
+*.cache
+*.bak
+*.bak-*
+*.corrupt
+*.new.dll
+codex-*.log
+_buildtest/
