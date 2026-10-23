@@ -36,7 +36,7 @@ The output goes to `dist\HitError.dll`. Set the `ADOFAI_DIR` environment variabl
 
 ## Game / mod compatibility
 
-- Game: current Steam version (developed against 3.4.x), UMM `0.22.14.0`.
+- Game: current Steam build (tested 2026-10-23), UMM `0.22.14.0`.
 - Harmony is the copy bundled with UnityModManager (`UMM\Core\0Harmony.dll`).
 
 ## AI disclosure
